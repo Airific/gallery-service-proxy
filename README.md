@@ -35,4 +35,3 @@ npm install -g webpack
 npm install
 ```
 
-# gallery-service-proxy

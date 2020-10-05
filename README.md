@@ -1,6 +1,6 @@
-# Project Name
+# Gallery service proxy
 
-> Gallery service proxy
+> 
 
 ## Related Projects
   - https://github.com/Airific/photo-gallery-service

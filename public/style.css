@@ -1,0 +1,84 @@
+body {
+  margin: 0;
+}
+
+.mainHeader {
+  max-width: 1120px;
+  display: block;
+  margin: 30px auto;
+}
+
+.topContainer {
+  max-width: 1120px;
+  margin: 0 auto;
+  position: relative;
+  border-bottom: 1px solid rgb(221, 221, 221);
+}
+
+.houseInfo {
+  max-width: 67%;
+  margin-left: -25px;
+  margin-top: 30px;
+}
+
+.calendarWrapper {
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+
+.calendarSticky {
+  max-width: 25%;
+  position: fixed;
+  right: 10%;
+}
+
+.sleeping {
+  max-width: 65%;
+  margin-left: -25px;
+}
+
+.calendar {
+  max-width: 60%;
+  margin-left: -25px;
+  margin-bottom: 15px;
+}
+
+.midContainer {
+  max-width: 1140px;
+  margin: 0 auto;
+}
+
+.map {
+  max-width: 100%;
+  margin: 55px auto;
+}
+
+.mapText {
+  max-width: 100%;
+  /* margin-left: 10px; */
+  margin-bottom: 10px;
+}
+
+.hostInfo {
+  max-width: 100%;
+  margin-left: -28px;
+  margin-bottom: 15px;
+}
+
+.footContainer  {
+  margin: 0;
+  padding-top: 25px;
+  background-color: rgb(247, 247, 247);
+  border-top: 1px solid rgb(221, 221, 221);
+}
+
+.bottomContainer  {
+  max-width: 1120px;
+  margin: 0 auto;
+}
+
+.explore {
+  max-width: 100%;
+  margin: 50px auto 0;
+}

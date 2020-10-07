@@ -10,7 +10,7 @@ body {
 
 .topContainer {
   max-width: 1120px;
-  margin: 0 auto;
+  margin: 40px auto 0;
   position: relative;
   border-bottom: 1px solid rgb(221, 221, 221);
 }
@@ -18,19 +18,24 @@ body {
 .houseInfo {
   max-width: 67%;
   margin-left: -25px;
-  margin-top: 30px;
+  float: left;
 }
 
 .calendarWrapper {
-  height: 100%;
-  position: absolute;
+  height: 350px;
+  width: 35%;
+  float: left;
+  position: sticky;
   top: 0;
 }
 
 .calendarSticky {
-  max-width: 25%;
-  position: fixed;
-  right: 10%;
+  width: 100%;
+  position: sticky;
+  margin-top: 25px;
+  border: 1px solid rgb(221, 221, 221);
+  border-radius: 10px;
+  box-shadow: 0 5px 12px 0 rgba(0, 0, 0, 0.1);
 }
 
 .sleeping {
